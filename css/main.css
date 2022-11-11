@@ -1,0 +1,11 @@
+h1,h2,h3,h4,h5,h6,h7{
+    font-family: initial !important;
+}
+.body-box{
+    background-color: #42592b;
+}
+
+.text-sz{
+    font-size: 30px;
+    font-family: cursive;
+}
